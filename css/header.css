@@ -1,7 +1,12 @@
+.header-banner {
+    background-image: url(../img/baby-yoda.svg);
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+}
 
-.header-banner__h1 {
-    text-transform: uppercase;
-    color: red;
+.header-banner__h1 {   
     padding: 10px;
     border: 1px solid black;
+    text-align: center;
 }

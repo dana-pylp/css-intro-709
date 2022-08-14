@@ -1,9 +1,14 @@
 * {
-margin: 0;
-bottom: 0;
-box-sizing: border-box;
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
 }
-img{
+
+img {
     display: block;
-    width: 100%;
+    width: 100%;  
+}
+
+p::first-letter {
+    font-size: 2rem;
 }
